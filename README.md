@@ -178,15 +178,5 @@ The app uses a Bottom Navigation Bar with four tabs:
 - Social sharing features
 - In-app payment processing
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👨‍💻 Contributors
-
-- Your Name - Initial development
-
-## 🙏 Acknowledgments
-
-- Flutter team for the amazing framework
-- All open-source packages used in this project
