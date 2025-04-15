@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145268476627",
+    "project_id": "wellness-hub2",
+    "storage_bucket": "wellness-hub2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145268476627:android:f09fa3df06e2524b472226",
+        "android_client_info": {
+          "package_name": "com.example.wellness_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFS4aNw-9pyktIj5thDnSe2VAJJjuBof0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
